@@ -1,0 +1,12 @@
+package com.worm.git;
+
+/**
+ * @Author Worm
+ * @Date 2020/8/6 8:52
+ * @Version 1.0
+ **/
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("hello GIT!");
+    }
+}
