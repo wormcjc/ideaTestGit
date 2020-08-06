@@ -13,6 +13,6 @@ public class HelloGit {
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("在线修改~");
-        System.out.println("pull回来修改后上传~");
+        System.out.println("克隆的项目");
     }
 }
